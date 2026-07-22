@@ -28,3 +28,5 @@ docker compose run --rm backend pytest
 ```
 
 Frontend disponible en `http://localhost:3000`.
+---
+Documento generado como parte de la practica final de DevOps.
